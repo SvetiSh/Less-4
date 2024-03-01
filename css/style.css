@@ -1,0 +1,20 @@
+body {
+  background: rgb(147, 143, 151);
+}
+table, th, td {
+  border-collapse: collapse;
+  border: 2px solid gold;
+}
+.table tr {
+  background: black;
+
+}
+.conteiner {
+  width: 1200px;
+  margin: 0 auto;
+}
+.header, .body, .footer {
+  padding: 20px;
+  background: yellowgreen;
+  margin: 0 0 20px;
+}
